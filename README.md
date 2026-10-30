@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23806543.svg)](https://doi.org/10.5281/zenodo.23806543)
 
-**Stand: 27.10.2026** · Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) · Herausgeber: [Kilowattheim](https://kilowattheim.com/de), Khawaja Muhammad Shahbaz ([ORCID](https://orcid.org/0009-0002-8164-8353))
+**Stand: 27.10.2026** · Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) · Herausgeber: [Kilowattheim](https://kilowattheim.com/de), Muhammad Shahbaz ([ORCID](https://orcid.org/0009-0002-8164-8353))
 
 Wer eine Wärmepumpe, Wallbox, Klimaanlage oder einen Stromspeicher mit mehr als 4,2 kW nach § 14a EnWG steuern lässt, zahlt weniger Netzentgelt. Wie viel weniger, legt jeder Netzbetreiber in seinem Preisblatt fest. Dieser Datensatz sammelt die Preise von 17 Netzbetreibern für 2026 und 2027 in einer Tabelle und rechnet sie für einen Beispielhaushalt durch.
 
@@ -108,7 +108,7 @@ Wenn Sie nur einen Netzbetreiber zitieren, verlinken Sie gern dessen Seite aus d
 Für wissenschaftliche Arbeiten: Zitierangaben stehen in [`CITATION.cff`](CITATION.cff). Jede Version ist bei Zenodo archiviert; die DOI [10.5281/zenodo.23806543](https://doi.org/10.5281/zenodo.23806543) führt immer zur neuesten Version.
 
 ```
-Shahbaz, Khawaja Muhammad; Kilowattheim (2026): § 14a EnWG Netzentgelte – Preisblätter deutscher Netzbetreiber, Stand 27.10.2026. Zenodo. https://doi.org/10.5281/zenodo.23806543
+Shahbaz, Muhammad; Kilowattheim (2026): § 14a EnWG Netzentgelte – Preisblätter deutscher Netzbetreiber, Stand 27.10.2026. Zenodo. https://doi.org/10.5281/zenodo.23806543
 ```
 
 ## Aktualisierung
