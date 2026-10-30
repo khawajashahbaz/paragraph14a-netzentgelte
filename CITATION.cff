@@ -6,6 +6,7 @@ abstract: "Netzentgelte 2026 und 2027 von 17 deutschen Netzbetreibern für Haush
 authors:
   - family-names: Shahbaz
     given-names: Khawaja Muhammad
+    orcid: "https://orcid.org/0009-0002-8164-8353"
   - name: Kilowattheim
     website: "https://kilowattheim.com/de"
 version: "2026-10-30"
